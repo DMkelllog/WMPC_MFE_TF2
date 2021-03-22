@@ -1,16 +1,16 @@
-# Wafer map pattern classification using CNN
+# Wafer map pattern classification using MFE
 
-Wafer map defect pattern classification using CNN
+Wafer map defect pattern classification using manual feature extraction
 
 ## Methodology
 
-### Convolutional Neural Network
+### Manual Feature extraction based model
 
-![](https://github.com/DMkelllog/Wafer_map_pattern_classification_CNN/blob/main/CNN%20flow.PNG?raw=true)
+![](https://github.com/DMkelllog/WMPC_MFE/blob/main/MFE%20flow.PNG?raw=true)
 
 * Input:    wafer map
 * Output: predicted class
-* Model:  CNN (based on VGG16)
+* Model:  ML classifier (FNN)
 
 ## Data
 
