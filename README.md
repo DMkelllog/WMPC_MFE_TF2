@@ -8,9 +8,11 @@ Wafer map defect pattern classification using manual feature extraction
 
 ![](https://github.com/DMkelllog/WMPC_MFE/blob/main/MFE%20flow.PNG?raw=true)
 
-* Input:    wafer map
+* Input:    handcrafted features from a wafer map
+  * Density (13), Geometry (6), Radon (20)
 * Output: predicted class
 * Model:  ML classifier (FNN)
+* Manual feature extraction code from https://www.kaggle.com/ashishpatel26/wm-811k-wafermap
 
 ## Data
 
